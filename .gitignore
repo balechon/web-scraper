@@ -1,0 +1,5 @@
+venv/
+*/
+scraper-news.code-workspace
+*.txt
+.vscode/
